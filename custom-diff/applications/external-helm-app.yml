@@ -28,7 +28,7 @@ spec:
     - /metadata/annotations/creation
   - group: apps
     kind: Secret
-    name: helm-example02
+    name: example-secret
     jsonPointers:
     - /data/my-password
    
